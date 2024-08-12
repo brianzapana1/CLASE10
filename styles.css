@@ -1,0 +1,28 @@
+body{
+    background-color: rgba(16, 126, 189, 0.438);
+}
+
+.titulo{
+    text-align: center;
+    font-size: 30px;
+}
+span{
+    text-transform: uppercase;
+}
+
+.nav-bg{
+    background-color: aqua;
+    padding: 10px;
+    margin: 10px 10px;
+    text-decoration: none;
+}
+
+.navegacion-principal{
+    text-align: center;
+    text-decoration: none;
+}
+
+.imagen{
+    align-items: center;
+    
+}
